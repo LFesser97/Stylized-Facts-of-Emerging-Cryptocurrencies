@@ -2,7 +2,7 @@
 """
 Created on Sun Jan  2 21:17:25 2022
 
-@author: Ralf
+@author: Lukas
 """
 
 import numpy as np
@@ -284,6 +284,10 @@ def save_df_ohlcv_data_to_csv_files(dfo, csv_dir):
 
     
 # call main save function for dict of dicts with all dataframes                   
-save_df_ohlcv_data_to_csv_files(df_ohlcvs, "df_ohlcvs")                
+save_df_ohlcv_data_to_csv_files(df_ohlcvs, "df_ohlcvs")           
+
+
+
+
 
 
