@@ -7,7 +7,7 @@ Created on Thu Apr  7 22:31:13 2022
 
 # functions to create autocorrelation plots for investigation of volatility clustering
 
-# for figure 3.5, 3.6, 3.7
+# for figure 3.7, 3.8, 3.9
 
 import numpy as np
 import matplotlib.pyplot as plt
