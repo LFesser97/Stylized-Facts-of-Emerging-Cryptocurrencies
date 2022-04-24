@@ -7,7 +7,7 @@ Created on Tue Mar  1 09:55:43 2022
 
 # functions to create various boxplots to investigate seasonality
 
-# for figures 3.1 and 3.2
+# for figures 3.1-3.4
 
 import numpy as np
 import matplotlib.pyplot as plt
