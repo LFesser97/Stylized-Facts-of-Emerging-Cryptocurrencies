@@ -1,0 +1,13 @@
+{
+    "gateio": {
+        "count": 2399,
+        "filtered count": 5,
+        "filtered symbols": [
+            "BCH/USDT",
+            "BTC/USDT",
+            "ETH/USDT",
+            "LTC/USDT",
+            "XRP/USDT"
+        ]
+    }
+}
