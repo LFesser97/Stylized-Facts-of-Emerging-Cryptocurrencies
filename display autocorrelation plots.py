@@ -7,7 +7,7 @@ Created on Sat Mar  5 22:38:29 2022
 
 # functions to create basic autocorrelation plots
 
-# for figure 3.3
+# for figure 3.5
 
 import statsmodels.tsa.api as smt
 import matplotlib.pyplot as plt
