@@ -7,7 +7,7 @@ Created on Tue Mar  1 09:55:43 2022
 
 # various functions to calculate and plot volatility measures and correlations to investigate leverage effect
 
-# for figures 3.4, 3.8, A5, A1-A4, A6-A10
+# for figures 3.6, 3.10, A1-A10
 
 
 import numpy as np
